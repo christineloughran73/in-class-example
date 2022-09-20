@@ -1,0 +1,12 @@
+/* Selects everything */
+* {
+	font-family:  Georgia,
+	serif; 
+}
+figcaption {
+	color:  gray;
+}
+
+h6 {
+	color:  gray;
+}
