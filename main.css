@@ -6,7 +6,9 @@
 figcaption {
 	color:  gray;
 }
-
+h1 {
+text-transform: uppercase;
+}
 h6 {
 	color:  gray;
 }
